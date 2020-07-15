@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(125, 119, 153, 0.219);
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+}
+
+li{
+    text-align: left;
+    font-size: .7vw;
+    padding: 1px;
+    margin-left: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+p1{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5vh;
+}
